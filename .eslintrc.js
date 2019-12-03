@@ -24,5 +24,6 @@ module.exports = {
     'react/state-in-constructor': [0, 'never'],
     'no-console': ['error', { allow: ['tron'] }],
     'jsx-a11y/control-has-associated-label': 0,
+    'no-param-reassign': 0,
   },
 };
